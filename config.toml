@@ -19,7 +19,7 @@ title = "MICKY - Premium Dental Composite"
   ctaButtonLink = "#contact"
   contactTitle = "Get In Touch"
   contactDescription = "Have questions? Our team is here to help you choose the right products"
-  copyright = "© 2024 MICKY Dental Composite. All rights reserved."
+  copyright = "© 2026 MICKY Dental Composite. All rights reserved."
   footerText = "Premium dental solutions for modern practices"
 
 [params.advantages]
@@ -93,3 +93,4 @@ title = "MICKY - Premium Dental Composite"
   [params.social.linkedin]
     name = "LinkedIn"
     url = "https://linkedin.com/company/mickydental"
+
