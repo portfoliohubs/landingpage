@@ -22,22 +22,22 @@ theme = ""
     {
       title = "Superior Esthetics",
       description = "Natural-looking results with perfect color matching and translucency",
-      icon = "✨"
+      icon = "star"
     },
     {
       title = "Easy Application",
       description = "Smooth consistency and excellent handling properties",
-      icon = "🎯"
+      icon = "target"
     },
     {
       title = "Long-lasting Durability",
       description = "Exceptional wear resistance and color stability",
-      icon = "💪"
+      icon = "strength"
     },
     {
       title = "Versatile Shades",
       description = "Complete range of shades for every clinical situation",
-      icon = "🎨"
+      icon = "palette"
     }
   ]
 
