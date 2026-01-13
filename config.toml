@@ -1,0 +1,135 @@
+baseURL = "https://portfoliohubs.github.io/landingpage/"
+languageCode = "en-us"
+title = "MICKY - Premium Dental Composite"
+theme = ""
+
+[params]
+  # Brand Information
+  brandName = "MICKY"
+  tagline = "The Ultimate Esthetic Composite for Dentists"
+  
+  # Hero Section
+  heroImage = "https://images.unsplash.com/photo-1606811973537-7de5c3c79c1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+  heroTitle = "MICKY"
+  heroSubtitle = "Premium Esthetic Composite Solutions"
+  heroDescription = "Transform your dental practice with MICKY's revolutionary composite materials. Deliver superior esthetics and unmatched performance for your patients."
+  ctaText = "Get Started Today"
+  ctaLink = "#packages"
+
+  # Advantages Section
+  advantagesTitle = "Why Choose MICKY?"
+  advantages = [
+    {
+      title = "Superior Esthetics",
+      description = "Natural-looking results with perfect color matching and translucency",
+      icon = "✨"
+    },
+    {
+      title = "Easy Application",
+      description = "Smooth consistency and excellent handling properties",
+      icon = "🎯"
+    },
+    {
+      title = "Long-lasting Durability",
+      description = "Exceptional wear resistance and color stability",
+      icon: "💪"
+    },
+    {
+      title = "Versatile Shades",
+      description: "Complete range of shades for every clinical situation",
+      icon: "🎨"
+    }
+  ]
+
+  # Price Packages
+  packagesTitle = "Choose Your Package"
+  packages = [
+    {
+      name: "Starter Kit",
+      price: "$299",
+      description: "Perfect for trying MICKY products",
+      features: [
+        "5 Universal Shades",
+        "Application Tools",
+        "Training Materials",
+        "Email Support"
+      ],
+      popular = false
+    },
+    {
+      name: "Professional Pack",
+      price: "$599",
+      description: "Ideal for busy dental practices",
+      features: [
+        "10 Universal Shades",
+        "Specialty Shades",
+        "Complete Tool Set",
+        "Video Training",
+        "Priority Support",
+        "Free Shipping"
+      ],
+      popular = true
+    },
+    {
+      name: "Master Collection",
+      price: "$999",
+      description: "Complete solution for specialists",
+      features: [
+        "20+ Shades Available",
+        "Advanced Tools",
+        "Live Training Session",
+        "24/7 Phone Support",
+        "Free Shipping",
+        "Product Warranty",
+        "Exclusive Access"
+      ],
+      popular = false
+    }
+  ]
+
+  # CTA Section
+  ctaTitle = "Ready to Transform Your Practice?"
+  ctaDescription = "Join thousands of dentists who trust MICKY for superior esthetic results"
+  ctaButtonText = "Order Now"
+  ctaButtonLink = "#contact"
+
+  # Contact Information
+  contactTitle = "Get In Touch"
+  contactDescription = "Have questions? Our team is here to help you choose the right products"
+  contactInfo = [
+    {
+      type: "Email",
+      value: "info@mickydental.com",
+      link: "mailto:info@mickydental.com"
+    },
+    {
+      type: "Phone",
+      value: "+1 (555) 123-4567",
+      link: "tel:+15551234567"
+    },
+    {
+      type: "Address",
+      value: "123 Dental Street, Suite 100, Medical City, MC 12345",
+      link: "#"
+    }
+  ]
+
+  # Social Media
+  socialLinks = [
+    {
+      name: "Facebook",
+      url: "https://facebook.com/mickydental"
+    },
+    {
+      name: "Instagram",
+      url: "https://instagram.com/mickydental"
+    },
+    {
+      name: "LinkedIn",
+      url: "https://linkedin.com/company/mickydental"
+    }
+  ]
+
+  # Footer
+  copyright = "© 2024 MICKY Dental Composite. All rights reserved."
+  footerText = "Premium dental solutions for modern practices"
