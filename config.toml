@@ -32,12 +32,12 @@ theme = ""
     {
       title = "Long-lasting Durability",
       description = "Exceptional wear resistance and color stability",
-      icon: "💪"
+      icon = "💪"
     },
     {
       title = "Versatile Shades",
-      description: "Complete range of shades for every clinical situation",
-      icon: "🎨"
+      description = "Complete range of shades for every clinical situation",
+      icon = "🎨"
     }
   ]
 
@@ -45,10 +45,10 @@ theme = ""
   packagesTitle = "Choose Your Package"
   packages = [
     {
-      name: "Starter Kit",
-      price: "$299",
-      description: "Perfect for trying MICKY products",
-      features: [
+      name = "Starter Kit",
+      price = "$299",
+      description = "Perfect for trying MICKY products",
+      features = [
         "5 Universal Shades",
         "Application Tools",
         "Training Materials",
@@ -57,10 +57,10 @@ theme = ""
       popular = false
     },
     {
-      name: "Professional Pack",
-      price: "$599",
-      description: "Ideal for busy dental practices",
-      features: [
+      name = "Professional Pack",
+      price = "$599",
+      description = "Ideal for busy dental practices",
+      features = [
         "10 Universal Shades",
         "Specialty Shades",
         "Complete Tool Set",
@@ -71,10 +71,10 @@ theme = ""
       popular = true
     },
     {
-      name: "Master Collection",
-      price: "$999",
-      description: "Complete solution for specialists",
-      features: [
+      name = "Master Collection",
+      price = "$999",
+      description = "Complete solution for specialists",
+      features = [
         "20+ Shades Available",
         "Advanced Tools",
         "Live Training Session",
@@ -98,35 +98,35 @@ theme = ""
   contactDescription = "Have questions? Our team is here to help you choose the right products"
   contactInfo = [
     {
-      type: "Email",
-      value: "info@mickydental.com",
-      link: "mailto:info@mickydental.com"
+      type = "Email",
+      value = "info@mickydental.com",
+      link = "mailto:info@mickydental.com"
     },
     {
-      type: "Phone",
-      value: "+1 (555) 123-4567",
-      link: "tel:+15551234567"
+      type = "Phone",
+      value = "+1 (555) 123-4567",
+      link = "tel:+15551234567"
     },
     {
-      type: "Address",
-      value: "123 Dental Street, Suite 100, Medical City, MC 12345",
-      link: "#"
+      type = "Address",
+      value = "123 Dental Street, Suite 100, Medical City, MC 12345",
+      link = "#"
     }
   ]
 
   # Social Media
   socialLinks = [
     {
-      name: "Facebook",
-      url: "https://facebook.com/mickydental"
+      name = "Facebook",
+      url = "https://facebook.com/mickydental"
     },
     {
-      name: "Instagram",
-      url: "https://instagram.com/mickydental"
+      name = "Instagram",
+      url = "https://instagram.com/mickydental"
     },
     {
-      name: "LinkedIn",
-      url: "https://linkedin.com/company/mickydental"
+      name = "LinkedIn",
+      url = "https://linkedin.com/company/mickydental"
     }
   ]
 
